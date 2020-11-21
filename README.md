@@ -1,7 +1,8 @@
 # CS-ML: Movie recommendation system using Content-Based Filtering
 
+Recommendation systems are a collection of algorithms used to recommend items to users based on information taken from the user.
 Recommender systems try to capture the patterns and similar behaviors of people, to help predict what else a certain people might enjoy.
-Recommender systems are utilized in a variety of areas and are most commonly recognized as playlist generators for video and music services like Netflix, YouTube and Spotify, product recommenders for services such as Amazon, or content recommenders for social media platforms such as Facebook and Twitter or Instagram.
+They are are utilized in a variety of areas and are most commonly recognized as playlist generators for video and music services like Netflix, YouTube and Spotify, product recommenders for services such as Amazon, or content recommenders for social media platforms such as Facebook and Twitter or Instagram.
 
 In this case study is built a movie recommendation system using Content-Based Filtering.
 A Content-based recommendation system tries to recommend items to users based on their profile.
