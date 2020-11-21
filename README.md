@@ -1,4 +1,4 @@
-# CS-ML: Movie recommendation system using Content-Based Filtering
+# CS-ML: Movie recommendation systems
 
 Recommendation systems are a collection of algorithms used to recommend items to users based on information taken from the user.
 Recommender systems try to capture the patterns and similar behaviors of people, to help predict what else a certain people might enjoy.
@@ -27,6 +27,6 @@ Similarity or closeness of items is measured based on the similarity in the cont
 -   Privacy issues when trying to learn the user's preferences
 
 <p align="center">
-  <img src="https://github.com/MKSK22/CS-ML-RecSys-ContBased/blob/main/contbasedfil.png?raw=true"/>
+  <img src="https://github.com/MKSK22/CS-ML-RecSys-ContBased/blob/main/RecSys.png?raw=true"/>
 </p>
 
