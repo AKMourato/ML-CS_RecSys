@@ -25,6 +25,7 @@ Similarity or closeness of items is measured based on the similarity in the cont
 -   There might be a low of amount of users to approximate
 -   Privacy issues when trying to learn the user's preferences
 
-![img](contbasedfil.png)
-
+<p align="center">
+  <img src="https://github.com/MKSK22/CS-ML-RecSys-ContBased/blob/main/contbasedfil.png?raw=true"/>
+</p>
 
