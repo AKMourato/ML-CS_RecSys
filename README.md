@@ -1,4 +1,4 @@
-# CS-ML: Movie recommendation systems
+# ML Case study: Movie recommendation systems
 
 Recommendation systems are a collection of algorithms used to recommend items to users based on information taken from the user.
 Recommender systems try to capture the patterns and similar behaviors of people, to help predict what else a certain people might enjoy.
