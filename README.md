@@ -21,7 +21,7 @@ Item-based collaborative filtering is based on similarity among items.
 </p>
 
 
-### Advantages and Disadvantages of Content-Based Filtering
+### Content-Based Filtering
 
 ##### Advantages
 
@@ -34,7 +34,9 @@ Item-based collaborative filtering is based on similarity among items.
 -   Extracting data is not always intuitive
 -   Determining what characteristics of the item the user dislikes or likes is not always obvious
 
-### Advantages and Disadvantages of Collaborative Filtering
+
+
+### Collaborative Filtering
 
 ##### Advantages
 
